@@ -40,6 +40,7 @@
   <project path="device/semc/msm7x27-common" name="CyanogenMod/android_device_semc_msm7x27-common" />
   <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" />
   <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" />
+  <project path="device/lepan/griffin" name="cas-xp/android_device_lepan_griffin" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -153,8 +154,8 @@
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
-  <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
-  <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
+  <project path="hardware/ti/omap3" name="cas-xp/android_hardware_ti_omap3" />
+  <project path="hardware/ti/omx" name="cas-xp/android_hardware_ti_omx" />
   <project path="hardware/ti/syslink" name="CyanogenMod/android_hardware_ti_syslink" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
@@ -233,7 +234,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" />
+  <project path="vendor/cyanogen" name="cas-xp/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
